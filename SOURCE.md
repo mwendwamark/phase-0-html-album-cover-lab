@@ -1,4 +1,4 @@
-<!-- FRONT -->
+**<!-- FRONT -->
 
 PHARRELL WILLIAMS
 
@@ -23,3 +23,4 @@ PHARRELLWILLIAMS.COM
 COLUMBIARECORDS.COM
 
 [sony-logo.png]
+**
